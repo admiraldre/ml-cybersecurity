@@ -82,3 +82,6 @@ The trained model is saved as **`finalmodel.keras`** for future reuse.
 1. Install the required libraries:
    ```bash
    pip install pandas numpy scikit-learn tensorflow matplotlib seaborn
+
+## Demo Video
+<iframe width="560" height="315" src="https://youtu.be/E5UeaKbBrKw" frameborder="0" allowfullscreen></iframe>
